@@ -2,10 +2,3 @@ test
 coucou
 go to test
 1
-<<<<<<< HEAD
-2
-3
-=======
-4
-tata2
->>>>>>> test2
